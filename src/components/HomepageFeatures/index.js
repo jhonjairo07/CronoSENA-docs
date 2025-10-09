@@ -4,32 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Gestión Inteligente de Formación',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        CronoSENA centraliza la planificación académica del SENA, optimizando la
+        asignación de instructores, ambientes y fichas para lograr una gestión
+        precisa y eficiente.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Hecho para la Comunidad Educativa',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Diseñado para administradores, instructores y aprendices, CronoSENA
+        simplifica los procesos diarios y mejora la comunicación entre todos los
+        actores de la formación profesional.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Potenciado por Tecnología Moderna',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Desarrollado con <b>Laravel</b> y <b>Filament</b>, CronoSENA combina la
+        estabilidad del backend con la flexibilidad del frontend, ofreciendo una
+        experiencia fluida, segura y escalable.
       </>
     ),
   },
