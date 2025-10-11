@@ -1,11 +1,13 @@
 ---
 slug: bienvenido
 title: ¡Bienvenido al Blog de CronoSENA!
-authors: xenthrall
+authors: [xenthrall]
 tags: [bienvenida, novedades]
 ---
 
 ¡Hola a toda la comunidad del SENA y entusiastas del software educativo!
+
+<!-- truncate -->
 
 Inauguramos este blog como el espacio oficial para compartir novedades, lanzamientos, tutoriales y todo lo relacionado con **CronoSENA**: el sistema inteligente de planificación académica para el SENA.
 
