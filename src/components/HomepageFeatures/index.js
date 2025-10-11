@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         CronoSENA centraliza la planificación académica del SENA, optimizando la
-        asignación de instructores, ambientes y fichas para lograr una gestión
+        asignación de instructores y fichas para lograr una gestión
         precisa y eficiente.
       </>
     ),
@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Diseñado para administradores, instructores y aprendices, CronoSENA
+        Diseñado para coordinadores académicos, instructores y personal administrativo, CronoSENA
         simplifica los procesos diarios y mejora la comunicación entre todos los
         actores de la formación profesional.
       </>
