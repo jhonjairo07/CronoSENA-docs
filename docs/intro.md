@@ -2,46 +2,34 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introducción a CronoSENA
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bienvenido a la documentación de **CronoSENA**, un sistema inteligente de planificación académica diseñado específicamente para el SENA (Servicio Nacional de Aprendizaje) en Colombia.
 
-## Getting Started
+## ¿Qué es CronoSENA?
 
-Get started by **creating a new site**.
+CronoSENA es una plataforma desarrollada para optimizar y facilitar la gestión de la planificación académica dentro del SENA. Su enfoque inteligente permite automatizar la organización de horarios, asignación de recursos y la programación de actividades académicas, contribuyendo así a una administración más eficiente y efectiva de los procesos educativos.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Características principales
 
-### What you'll need
+- **Planificación inteligente**: Genera y organiza horarios académicos de manera inteligente, minimizando conflictos y maximizando el aprovechamiento de los recursos.
+- **Gestión de recursos**: Permite una administración eficiente de instructores.
+- **Interfaz moderna**: Ofrece una experiencia de usuario sencilla y adaptada a las necesidades institucionales.
+- **Enfoque en el SENA**: Cada funcionalidad está pensada para las particularidades y requerimientos del SENA.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Tecnologías utilizadas
 
-## Generate a new site
+- **PHP**: Lenguaje principal del backend.
+- **Laravel**: Framework principal sobre el que se construye la aplicación.
+- **Filament**: Utilizado para la construcción del frontend administrativo.
+- **Livewire**: Para la creación de componentes reactivos y dinámicos en el frontend.
+- **Docker**: Facilita el despliegue y la portabilidad del sistema.
+- **Otros**: Scripts, hojas de estilo y otros complementos que mejoran la funcionalidad y la experiencia de usuario.
 
-Generate a new Docusaurus site using the **classic template**.
+## ¿Para quién está dirigido?
 
-The classic template will automatically be added to your project after you run the command:
+CronoSENA está dirigido a coordinadores académicos, instructores y personal administrativo del SENA que busquen mejorar la organización y planificación de sus actividades educativas.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+---
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+> Si deseas contribuir, reportar problemas o sugerir mejoras, visita el repositorio oficial: [xenthrall/CronoSENA](https://github.com/xenthrall/CronoSENA).
